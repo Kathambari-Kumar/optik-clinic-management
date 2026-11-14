@@ -18,7 +18,7 @@ Built in collaboration with the clinic owner to replace manual workflows with a 
 * Participated across the full software development lifecycle, including requirements gathering, implementation, testing, debugging, and technical documentation.
 
 ## Tech Stack
-* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
+* **Frontend:** React, TypeScript (TSX), HTML5, CSS3
 * **Backend:** Node.js, Express, RESTful APIs
 * **Database:** PostgreSQL
 * **Tools & Workflow:** Git, GitHub
